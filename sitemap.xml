@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://trackandspring.com/maryland/frederick-county/</loc>
+    <lastmod>2026-09-30T16:16:40.763Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://trackandspring.com/maryland/baltimore-county/</loc>
     <lastmod>2026-09-30T16:16:35.132Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -88,11 +93,6 @@
   <url>
     <loc>https://trackandspring.com/maryland/howard-county/</loc>
     <lastmod>2026-09-30T16:14:05.703Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://trackandspring.com/maryland/frederick-county/</loc>
-    <lastmod>2026-09-30T16:14:01.729Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
