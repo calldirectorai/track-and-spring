@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://trackandspring.com/maryland/</loc>
+    <lastmod>2026-09-30T08:23:26.910Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://trackandspring.com/how-we-price/</loc>
     <lastmod>2026-09-30T08:23:21.970Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -63,11 +68,6 @@
   <url>
     <loc>https://trackandspring.com/maryland/montgomery-county/</loc>
     <lastmod>2026-09-30T08:20:21.455Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://trackandspring.com/maryland/</loc>
-    <lastmod>2026-09-30T08:20:13.598Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
