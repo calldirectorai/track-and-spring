@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://trackandspring.com/</loc>
+    <lastmod>2026-09-30T16:29:12.290Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://trackandspring.com/for-companies/</loc>
+    <lastmod>2026-09-30T16:28:17.056Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://trackandspring.com/terms/</loc>
     <lastmod>2026-09-30T16:17:08.698Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -51,11 +61,6 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://trackandspring.com/for-companies/</loc>
-    <lastmod>2026-09-30T16:16:13.472Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://trackandspring.com/cost/garage-door-spring-replacement-cost/</loc>
     <lastmod>2026-09-30T16:16:07.515Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -88,11 +93,6 @@
   <url>
     <loc>https://trackandspring.com/calculator/</loc>
     <lastmod>2026-09-30T16:15:32.509Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://trackandspring.com/</loc>
-    <lastmod>2026-09-30T16:15:21.418Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
