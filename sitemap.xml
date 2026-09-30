@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://trackandspring.com/how-we-price/</loc>
+    <lastmod>2026-09-30T07:48:18.361Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://trackandspring.com/cost/garage-door-spring-replacement-cost/</loc>
     <lastmod>2026-09-30T07:48:11.519Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -83,11 +88,6 @@
   <url>
     <loc>https://trackandspring.com/maryland/</loc>
     <lastmod>2026-09-30T07:44:44.153Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://trackandspring.com/how-we-price/</loc>
-    <lastmod>2026-09-30T07:44:39.135Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
