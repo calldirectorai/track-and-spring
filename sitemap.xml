@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://trackandspring.com/terms/</loc>
+    <lastmod>2026-09-30T15:41:24.293Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://trackandspring.com/privacy/</loc>
     <lastmod>2026-09-30T15:41:18.878Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -83,11 +88,6 @@
   <url>
     <loc>https://trackandspring.com/</loc>
     <lastmod>2026-09-30T15:39:47.202Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://trackandspring.com/terms/</loc>
-    <lastmod>2026-09-30T15:37:40.535Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
