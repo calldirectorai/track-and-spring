@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://trackandspring.com/claim-your-listing/</loc>
+    <lastmod>2026-09-30T07:47:44.576Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://trackandspring.com/calculator/</loc>
     <lastmod>2026-09-30T07:47:39.512Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -83,11 +88,6 @@
   <url>
     <loc>https://trackandspring.com/cost/</loc>
     <lastmod>2026-09-30T07:44:13.008Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://trackandspring.com/claim-your-listing/</loc>
-    <lastmod>2026-09-30T07:44:07.926Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
