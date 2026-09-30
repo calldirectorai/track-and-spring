@@ -87,3 +87,4 @@ select{width:100%;font:inherit;color:var(--ink);background:var(--white);border:2
 .site-footer ul{list-style:none;padding:0;margin:0}
 .site-footer p{max-width:none}
 @media print{.site-header,.site-footer{display:none}}
+.band.dark a.btn{color:#1b2730}
