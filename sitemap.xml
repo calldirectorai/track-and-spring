@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://trackandspring.com/</loc>
+    <lastmod>2026-09-30T07:43:56.310Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://trackandspring.com/maryland/frederick-county/</loc>
+    <lastmod>2026-09-30T07:43:40.505Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://trackandspring.com/maryland/montgomery-county/</loc>
+    <lastmod>2026-09-30T07:43:27.936Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://trackandspring.com/maryland/</loc>
+    <lastmod>2026-09-30T07:43:20.973Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://trackandspring.com/terms/</loc>
     <lastmod>2026-09-30T07:41:03.885Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -16,18 +36,8 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://trackandspring.com/maryland/montgomery-county/</loc>
-    <lastmod>2026-09-30T07:40:48.676Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://trackandspring.com/maryland/howard-county/</loc>
     <lastmod>2026-09-30T07:40:43.054Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://trackandspring.com/maryland/frederick-county/</loc>
-    <lastmod>2026-09-30T07:40:37.691Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -38,11 +48,6 @@
   <url>
     <loc>https://trackandspring.com/maryland/anne-arundel-county/</loc>
     <lastmod>2026-09-30T07:40:26.329Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://trackandspring.com/maryland/</loc>
-    <lastmod>2026-09-30T07:40:21.326Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -83,11 +88,6 @@
   <url>
     <loc>https://trackandspring.com/calculator/</loc>
     <lastmod>2026-09-30T07:39:39.390Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://trackandspring.com/</loc>
-    <lastmod>2026-09-30T07:39:32.389Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
