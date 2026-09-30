@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://trackandspring.com/privacy/</loc>
+    <lastmod>2026-09-30T08:24:05.607Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://trackandspring.com/maryland/prince-georges-county/</loc>
     <lastmod>2026-09-30T08:23:59.595Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -78,11 +83,6 @@
   <url>
     <loc>https://trackandspring.com/</loc>
     <lastmod>2026-09-30T08:22:34.466Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://trackandspring.com/privacy/</loc>
-    <lastmod>2026-09-30T08:19:52.392Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
