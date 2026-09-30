@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://calldirectorai.github.io/track-and-spring/sitemap.xml
