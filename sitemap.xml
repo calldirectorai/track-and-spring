@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://trackandspring.com/how-we-price/</loc>
+    <lastmod>2026-10-10T18:27:48.054Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://trackandspring.com/maryland/frederick-county/</loc>
     <lastmod>2026-10-10T18:27:35.964Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -78,11 +83,6 @@
   <url>
     <loc>https://trackandspring.com/cost/</loc>
     <lastmod>2026-10-10T18:24:05.687Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://trackandspring.com/how-we-price/</loc>
-    <lastmod>2026-10-10T18:23:54.393Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
